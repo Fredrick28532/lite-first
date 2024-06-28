@@ -1,0 +1,15 @@
+body{
+    color: bisque;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+li{
+    background-color: brown;
+    display:block;
+    margin-right: 32px;  
+    padding: 12px; 
+    text-align: center;
+}
